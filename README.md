@@ -1,4 +1,4 @@
-# SSL-Blowfish-Implementation
+# SSL Blowfish Implementation
 
 To run:
 ```bash
